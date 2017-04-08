@@ -28,6 +28,7 @@ import org.springframework.util.ResourceUtils;
 
 /**
  * 抽象的文件解析资源
+ * @version  
  */
 public abstract class AbstractFileResolvingResource extends AbstractResource {
 
